@@ -1,0 +1,16 @@
+@charset "UTF-8";
+h1 {
+	color: black;
+	font-family: serif;
+}
+
+.Header {
+	color: black;
+	font-family: serif;
+	font-size: 150%;
+	font-weight: bold;
+}
+
+#texto {
+	font-family: serif;
+	font-size: 80%;
